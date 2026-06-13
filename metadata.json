@@ -1,0 +1,6 @@
+{
+  "name": "MediReminder",
+  "description": "Medicines and medication reminders organizer with exact alarms and tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
