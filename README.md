@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-# Medicine Reminder App
+<h1>Medicine Reminder App</h1>
 </div>
 
 
