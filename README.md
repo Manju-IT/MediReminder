@@ -1,5 +1,5 @@
 <div align="center">
-![Project Image](https://drive.google.com/file/d/1qC58wYIqFb3CGwCL78PyctnLyYNaEm3Z/view?usp=sharing)
+  <img src="https://googleusercontent.com" alt="Project Image">
 </div>
 
 # Run and deploy your AI Studio app
